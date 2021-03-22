@@ -8,39 +8,7 @@
    </head>
 
 
-   <style>
-     body{
-     margin:0;
-     padding: 0;
-     line-height: 1.6;
-     font-size: 16px;
-     background-color:rgb(0, 0, 35);
-     }
-
-     #sp {
-       background-color:rgb(119, 221, 119);
-     }
-     #lg {
-       color:rgb(119, 221, 119);
-     }
-     #u {
-       color:rgb(0, 0, 255);
-     }
-     h1 {
-       color:rgb(0, 0, 35);
-     }
-     li {
-       color:rgb(119, 221, 119);
-     }
-     h2 {
-       background-color:rgb(119, 221, 119);
-       color:rgb(0, 0, 35)
-     }
-     h3 {
-       background-color:rgb(119, 221, 119);
-       color:rgb(0, 0, 35)
-     }
-   </style>
+   
    <body>
      <h1 id="sp"align="center">Виды спидранов</h1>
      <h2>Спидран по уборке стола</h2>
