@@ -42,8 +42,6 @@
      }
    </style>
    <body>
-     <marquee behavior="scroll" direction="left" id="lg">Лиса-Fox Лучший сайт для людей у которых есть или будет лиса</marquee>
-     <img src ="file:///D:/RuDPLAY/image.png" alt = "Спидран.ру" >
      <h1 id="sp"align="center">Виды спидранов</h1>
      <h2>Спидран по уборке стола</h2>
      <ol>
