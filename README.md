@@ -42,7 +42,6 @@
         <li>найти игру</li>
         <li>проходить</li>
         </ol>
-
 </head>
 <marquee align="right" behavior="scroll" id="u">пасхалка</marquee>
 </html>
