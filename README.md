@@ -2,9 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8" />
-
    </head>
-
    <body>
      <h1 id="sp"align="center">Виды спидранов</h1>
      <h2>Спидран по уборке стола</h2>
